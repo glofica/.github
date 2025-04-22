@@ -15,10 +15,10 @@ Glofica is an API-first platform providing next-gen financial infrastructure for
 ## Use Cases
 
 - Neobanks offering cross-border payments
-- Fintech apps needing stablecoin payouts
+- Fintech apps needing payouts
 - Payroll platforms with multi-currency distribution
 - Treasury automation with smart conversion
-- Remittances Money transfers with local anchor networks
+- Remittances USDC transfers with local anchor networks
 
 ## Tech Stack
 
