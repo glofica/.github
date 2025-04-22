@@ -37,11 +37,11 @@ Authorization: Bearer <access_token>
 Body:
 {
   "from_currency": "USDC",
-  "to_currency": "VES",
+  "to_currency": "COP",
   "amount": "100.00",
   "recipient": {
     "name": "Juan Perez",
     "bank_account": "01021234567890123456",
-    "country": "VE"
+    "country": "CO"
   }
 }
