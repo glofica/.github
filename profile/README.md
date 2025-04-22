@@ -34,7 +34,7 @@ POST /v1/transfers
 Headers:
 Authorization: Bearer <access_token>
 
-Body:
+````
 {
   "from_currency": "USDC",
   "to_currency": "COP",
@@ -45,3 +45,4 @@ Body:
     "country": "CO"
   }
 }
+````
