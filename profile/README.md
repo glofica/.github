@@ -18,7 +18,7 @@ A hybrid fusion engine for global scale. It uses the **FlashDAG-Narwhal++** memp
 It doesn't just transfer value; it manages complex monetary policies through **zkML reasoning engines (DeepSeek R1)** and specialized opcodes in its Cognitive VM, specifically designed for **Digital Settlement Assets** and institutional automation.
 
 ### 4. Global Interoperability & Compliance
-Native support for **ISO 20022** messaging and the **Ley Genius** innovation framework. GLOFICA bridges the gap between central banks, tier-1 institutions, and neobanks through automated compliance and 1:1 settlement finality.
+Native support for **ISO 20022** messaging and the **GENIUS Act** innovation framework. GLOFICA bridges the gap between central banks, tier-1 institutions, and neobanks through automated compliance and 1:1 settlement finality.
 
 ---
 
@@ -27,7 +27,7 @@ Native support for **ISO 20022** messaging and the **Ley Genius** innovation fra
 - 🏦 **Digital Settlement Assets (DSA)**: Native mint/burn/freeze/recover operations.
 - 💰 **Institutional M0/M1 Ops**: Automated supply optimization via AI agents.
 - 🌐 **ISO 20022 Native**: Universal financial messaging parsed at the VM level.
-- 🧪 **Ley Genius Ready**: Innovation sandboxes for rapid fintech & neobank deployment.
+- 🧪 **GENIUS Act Ready**: Innovation sandboxes for rapid fintech & neobank deployment.
 - 🧠 **zkML Proof of Intent**: Succinct verification of AI-driven financial decisions.
 
 ---
