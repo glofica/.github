@@ -18,7 +18,7 @@ A hybrid fusion engine for global scale. It uses the **FlashDAG-Narwhal++** memp
 It doesn't just transfer value; it manages complex monetary policies through **zkML reasoning engines (DeepSeek R1)** and specialized opcodes in its Cognitive VM, specifically designed for **Digital Settlement Assets** and institutional automation.
 
 ### 4. Global Interoperability & Compliance
-Native support for **ISO 20022** messaging and the **GENIUS Act** innovation framework. GLOFICA bridges the gap between central banks, tier-1 institutions, and neobanks through automated compliance and 1:1 settlement finality.
+Native support for **ISO 20022** messaging and the **Ley Genius** innovation framework. GLOFICA bridges the gap between central banks, tier-1 institutions, and neobanks through automated compliance and 1:1 settlement finality.
 
 ---
 
@@ -27,7 +27,7 @@ Native support for **ISO 20022** messaging and the **GENIUS Act** innovation fra
 - 🏦 **Digital Settlement Assets (DSA)**: Native mint/burn/freeze/recover operations.
 - 💰 **Institutional M0/M1 Ops**: Automated supply optimization via AI agents.
 - 🌐 **ISO 20022 Native**: Universal financial messaging parsed at the VM level.
-- 🧪 **GENIUS Act Ready**: Innovation sandboxes for rapid fintech & neobank deployment.
+- 🧪 **Ley Genius Ready**: Innovation sandboxes for rapid fintech & neobank deployment.
 - 🧠 **zkML Proof of Intent**: Succinct verification of AI-driven financial decisions.
 
 ---
@@ -59,7 +59,32 @@ cmake --build build --config Release
 
 ---
 
+## Roadmap 2026-2027
 
+- **Phase 01: The Foundation** ✅ (XOOK, PQC, 10K TPS)
+- **Phase 02: Chimera Scale** 🔄 (FlashDAG, Mysticeti, Institutional Hubs)
+- **Phase 03: Cortex Intelligence** (zkML Reasoning, Goldilocks Field, Ley Genius)
+- **Phase 04: Global Interconnect** (ISO 20022 Native, Universal Liquidity Bridge)
+
+---
+
+---
+
+## Institutional Benchmarking
+
+Comparing GLOFICA's autonomous architecture with bank-led consortia and supranational digital rail experiments.
+
+| Core Capability | GLOFICA | BIS (mBridge) | Canton / Onyx | Hyperledger / Corda |
+| :--- | :--- | :--- | :--- | :--- |
+| **Settlement Finality** | **Immediate (< 800ms)** | Variable (Multi-hop) | 3 - 5 Seconds | System Dependent |
+| **Sovereign AI Cortex** | **NATIVE** | NONE | NONE | NONE |
+| **Quantum Security** | **NATIVE** | Planned | NONE | NONE |
+| **ISO 20022 Native VM** | **NATIVE** | Native Support | Partial | Plugin-based |
+| **GENIUS Act Compliance** | **NATIVE** | NONE | NONE | NONE |
+| **Sovereignty Model** | **Full (Independent)** | Centralized / Shared | Consortium-led | Private Subnets |
+| **Hardware Acceleration**| **POPCNT / Bare Metal** | Traditional Cloud | Standard VM | Standard VM |
+
+---
 
 **Built for Sovereignty. Optimized for Intelligence. Proven at Scale.**
 
