@@ -59,13 +59,6 @@ cmake --build build --config Release
 
 ---
 
-## Roadmap 2026-2027
-
-- **Phase 01: The Foundation** ✅ (XOOK, PQC, 10K TPS)
-- **Phase 02: Chimera Scale** 🔄 (FlashDAG, Mysticeti, Institutional Hubs)
-- **Phase 03: Cortex Intelligence** (zkML Reasoning, Goldilocks Field, Ley Genius)
-- **Phase 04: Global Interconnect** (ISO 20022 Native, Universal Liquidity Bridge)
-
 ---
 
 **Built for Sovereignty. Optimized for Intelligence. Proven at Scale.**
