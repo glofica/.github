@@ -12,13 +12,13 @@ It achieves this through four core technical pillars:
 It moves beyond legacy ECDSA, implementing **Dilithium3** for digital signatures and **Kyber768** for Key Encapsulation (KEM), ensuring that sovereign financial assets remain secure even against future quantum computer attacks.
 
 ### 2. Chimera DLT Architecture
-A hybrid fusion engine for global scale. It uses the **FlashDAG-Narwhal++** mempool, [**Mysticeti**](https://github.com/MystenLabs/mysticeti) consensus and the [**XOOK Merkle Tree**](https://github.com/Praexor/xook), capable of sustaining over **10,000 TPS** with sub-eight-hundred-millisecond finality.
+A hybrid fusion engine for global scale. It uses the **FlashDAG-Narwhal++** mempool, [**Mysticeti**](https://github.com/MystenLabs/mysticeti) consensus and the [**XOOK Merkle Tree**](https://github.com/Praexor/xook), capable of sustaining over **10,000 TPS** scalable to 100k TPS with sub-eight-hundred-millisecond finality.
 
 ### 3. Sovereign AI Cortex (Neural Orchestrator)
-It doesn't just transfer value; it manages complex monetary policies through **zkML reasoning engines (DeepSeek R1)** and specialized opcodes in its Cognitive VM, specifically designed for **Digital Settlement Assets** and institutional automation.
+It doesn't just transfer value; it manages complex monetary policies through **zkML reasoning engines** and specialized opcodes in its Cognitive VM, specifically designed for **Digital Settlement Assets** and institutional automation.
 
 ### 4. Global Interoperability & Compliance
-Native support for **ISO 20022** messaging and the **GENIUS Act** innovation framework. GLOFICA bridges the gap between central banks, tier-1 institutions, and neobanks through automated compliance and 1:1 settlement finality.
+Native support for **ISO 20022** messaging and the **GENIUS Act** innovation framework. GLOFICA bridges the gap between central banks, tier-1 institutions, and legacy banking through automated compliance and 1:1 settlement finality.
 
 ---
 
