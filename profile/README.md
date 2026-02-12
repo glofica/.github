@@ -68,21 +68,19 @@ cmake --build build --config Release
 
 ---
 
----
-
 ## Institutional Benchmarking
 
 Comparing GLOFICA's autonomous architecture with bank-led consortia and supranational digital rail experiments.
 
 | Core Capability | GLOFICA | BIS (mBridge) | Canton / Onyx | Hyperledger / Corda |
 | :--- | :--- | :--- | :--- | :--- |
-| **Settlement Finality** | **Immediate (< 800ms)** | Variable (Multi-hop) | 3 - 5 Seconds | System Dependent |
-| **Sovereign AI Cortex** | **NATIVE** | NONE | NONE | NONE |
-| **Quantum Security** | **NATIVE** | Planned | NONE | NONE |
-| **ISO 20022 Native VM** | **NATIVE** | Native Support | Partial | Plugin-based |
-| **GENIUS Act Compliance** | **NATIVE** | NONE | NONE | NONE |
-| **Sovereignty Model** | **Full (Independent)** | Centralized / Shared | Consortium-led | Private Subnets |
-| **Hardware Acceleration**| **POPCNT / Bare Metal** | Traditional Cloud | Standard VM | Standard VM |
+| ⚡ **Settlement Finality** | ✅ **Immediate (< 800ms)** | ⏳ Variable (Multi-hop) | ❌ 3 - 5 Seconds | ❌ System Dependent |
+| 🧠 **Sovereign AI Cortex** | ✅ **NATIVE** | ❌ NONE | ❌ NONE | ❌ NONE |
+| 🛡️ **Quantum Security** | ✅ **NATIVE** | ⏳ Planned | ❌ NONE | ❌ NONE |
+| 🏦 **ISO 20022 Native VM** | ✅ **NATIVE** | ✅ Native Support | 🧩 Partial | 🧩 Plugin-based |
+| ⚖️ **GENIUS Act Compliance** | ✅ **NATIVE** | ❌ NONE | ❌ NONE | ❌ NONE |
+| 🏛️ **Sovereignty Model** | ✅ **Full (Independent)** | 🏢 Centralized / Shared| 🤝 Consortium-led | 🔗 Private Subnets |
+| ⚙️ **Hardware Acceleration**| ✅ **POPCNT / Bare Metal** | ☁️ Traditional Cloud | 🗄️ Standard VM | 🗄️ Standard VM |
 
 ---
 
