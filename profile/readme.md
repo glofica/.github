@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="assets/logo.png" width="80" alt="GLOFICA DLT" />
+<p align="left">
+  <img src="https://github.com/glofica/wallet_v2/blob/main/assets/logo.png" width="80" alt="GLOFICA DLT" />
 </p>
 
-<h1 align="center">GLOFICA DLT</h1>
+<h1 align="left">GLOFICA DLT</h1>
 
 **The Sovereign & Institutional Financial AI-Backbone**
 
@@ -11,7 +11,7 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-20-blue)]()
 [![License](https://img.shields.io/badge/license-proprietary-red)]()
 
-**GLOFICA** is a **Post-Quantum DLT ecosystem** for the next generation of global and institutional finance. Built entirely in C++20 with zero external runtime dependencies — 199 source files, 35,000+ lines of production code.
+**GLOFICA** is a **Post-Quantum DLT ecosystem** for the next generation of global and institutional finance. Built entirely in C++20 with zero external runtime dependencies.
 
 ---
 
@@ -119,10 +119,6 @@ glofica/
 └── CMakeLists.txt
 ```
 
-**Codebase**: 199 source files · 35,000+ lines of C++20
-
----
-
 ## Build from Source
 
 ### Prerequisites
@@ -204,5 +200,5 @@ cmake --build build --config Release
 
 **Built for Sovereignty. Optimized for Intelligence. Proven at Scale.**
 
-*Copyright © 2026 GLOFICA — G | MALAVE Inc. All rights reserved.*
+*MIT*
 
