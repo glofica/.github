@@ -1,4 +1,8 @@
-# GLOFICA
+<p align="center">
+  <img src="assets/logo.png" width="80" alt="GLOFICA DLT" />
+</p>
+
+<h1 align="center">GLOFICA DLT</h1>
 
 **The Sovereign & Institutional Financial AI-Backbone**
 
